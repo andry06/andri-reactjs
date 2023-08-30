@@ -28,7 +28,7 @@ export default class Contactme extends React.Component {
                                     <Form.Control as="textarea" rows={3} />
                                 </Form.Group>
                                 <div className="mb-3 ms-1 text-start">
-                                    <Button variant="primary" type="submit">
+                                    <Button variant="success" type="submit">
                                         Kirim
                                     </Button>
                                 </div>
