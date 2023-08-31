@@ -1,7 +1,8 @@
 import logo from './logo.svg';
 import './App.css';
 import 'bootstrap/dist/css/bootstrap.min.css';
-import Lifecycle from './Lifecycle';
+import Hooks from './Hooks';
+// import Lifecycle from './Lifecycle';
 // import FormInput from './FormInput';
 
 // import Component from './component';
@@ -15,7 +16,8 @@ function App() {
     {/* <Component /> */}
     {/* <Styling />  */}
     {/* <FormInput /> */}
-    <Lifecycle />
+    {/* <Lifecycle /> */}
+    <Hooks />
   </div>
   );
 }
