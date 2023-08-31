@@ -21,7 +21,7 @@ export default class CardNews extends React.Component {
                                     </small>
                                 </Card.Text>
                                 <Card.Text className="text-center">
-                                    <Button variant="primary">Read More ...</Button>
+                                    <Button variant="primary">Read More</Button>
                                 </Card.Text>
                             </Card.Body>
                         </Card>
