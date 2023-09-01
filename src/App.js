@@ -2,6 +2,7 @@ import logo from './logo.svg';
 import './App.css';
 import 'bootstrap/dist/css/bootstrap.min.css';
 import Hooks from './Hooks';
+import RouteTugas from './Route';
 // import Lifecycle from './Lifecycle';
 // import FormInput from './FormInput';
 
@@ -17,7 +18,8 @@ function App() {
     {/* <Styling />  */}
     {/* <FormInput /> */}
     {/* <Lifecycle /> */}
-    <Hooks />
+    {/* <Hooks /> */}
+    <RouteTugas />
   </div>
   );
 }
