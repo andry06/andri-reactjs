@@ -11,7 +11,7 @@ const ProjectRoute = () => {
         <section id="project" className={style.projectStyle}>
         <Container >
            <Row >
-               <Col><h2>Project</h2></Col>
+               <Col><h2>Project Me</h2></Col>
            </Row>
 
            <Row className="mt-4 justify-content-center fs-6 text-center">
