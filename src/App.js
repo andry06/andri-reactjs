@@ -1,11 +1,11 @@
 import logo from './logo.svg';
 import './App.css';
 import 'bootstrap/dist/css/bootstrap.min.css';
-import Hooks from './Hooks';
-import RouteTugas from './Route';
+import Redux from './Redux';
+// import Hooks from './Hooks';
+// import RouteTugas from './Route';
 // import Lifecycle from './Lifecycle';
 // import FormInput from './FormInput';
-
 // import Component from './component';
 // import Styling from './styling';
 
@@ -19,7 +19,8 @@ function App() {
     {/* <FormInput /> */}
     {/* <Lifecycle /> */}
     {/* <Hooks /> */}
-    <RouteTugas />
+    {/* <RouteTugas /> */}
+    <Redux />
   </div>
   );
 }
